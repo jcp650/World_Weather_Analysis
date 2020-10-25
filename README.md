@@ -1,2 +1,2 @@
 # World_Weather_Analysis
-Mapping weather patterns with API requests through Python
+Mapping weather patterns, travel itineraries, and hotels with API requests.
